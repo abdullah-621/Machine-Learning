@@ -1,0 +1,9 @@
+# Step 1: Split X and y
+
+# Step 3: Train Model
+
+# Step 4: Prediction
+
+# Step 5: Evaluation
+
+# Step 6: Predict for new height
