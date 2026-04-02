@@ -1,0 +1,8 @@
+# Model & data files
+*.pkl
+*.dat
+*.npy
+*.csv
+__pycache__/
+*.pyc
+training_model/
